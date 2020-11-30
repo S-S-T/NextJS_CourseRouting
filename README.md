@@ -1,2 +1,2 @@
-# NextJS_CourseRouting
-Same course, but with routing
+# NextJS_Course
+Initial learning for rapid betterment
